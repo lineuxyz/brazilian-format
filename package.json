@@ -4,7 +4,7 @@
   "description": "Library to help format Brazilian numbers, such as: CPF, CEP, RG, Telephone, CNPJ",
   "main": "index.js",
   "repository": {
-    "url": "git remote add origin https://github.com/lineuxyz/brazilian-format",
+    "url": "https://github.com/lineuxyz/brazilian-format",
     "type": "git"
   },
   "keywords": ["Brasil", "Formatos", "Números", "CPF", "CEP"],
