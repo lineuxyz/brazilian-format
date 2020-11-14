@@ -7,12 +7,21 @@
     "url": "https://github.com/lineuxyz/brazilian-format",
     "type": "git"
   },
-  "keywords": ["Brasil", "Formatos", "Números", "CPF", "CEP"],
+  "keywords": [
+    "Brasil",
+    "Formatos",
+    "Números",
+    "CPF",
+    "CEP"
+  ],
   "author": "Lineu Pastorelli",
   "license": "MIT",
   "private": false,
   "bugs": {
     "url": "https://github.com/lineuxyz/brazilian-format/issues"
   },
-  "homepage": "https://github.com/lineuxyz/brazilian-format#readme"
+  "homepage": "https://github.com/lineuxyz/brazilian-format#readme",
+  "devDependencies": {
+    "typescript": "^4.0.5"
+  }
 }
