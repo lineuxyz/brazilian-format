@@ -1,5 +1,5 @@
 {
-  "name": "brazilian-format",
+  "name": "@lineuxyz/brazilian-format",
   "version": "1.0.0",
   "description": "Library to help format Brazilian numbers, such as: CPF, CEP, RG, Telephone, CNPJ",
   "main": "index.js",
@@ -23,5 +23,6 @@
   "homepage": "https://github.com/lineuxyz/brazilian-format#readme",
   "devDependencies": {
     "typescript": "^4.0.5"
-  }
+  },
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
 }
